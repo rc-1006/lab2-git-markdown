@@ -7,3 +7,10 @@ I want to show a normal text
 -   book 1: Harry Potter
 -   book 2: another book
 -   book 3: book three
+
+```{=html}
+<!-- -->
+```
+    git commit -m"update"
+
+![photo of Runhan](images/runhan.jpg)
